@@ -22,3 +22,18 @@ public class HelloWorld {
 * System: a pre-defined class
 * out: a static variable within System
 * println: a method of out
+
+###Variables and Types
+* byte  1byte
+* short 2bytes
+* int 4bytes
+* long 8bytes
+* float 4bytes
+* double 8bytes
+* char 2bytes
+* boolean 1byte
+```Java
+int myNumber1;
+myNumber1 = 5;
+int myNumber2 = 6;
+double d = 1.0;
