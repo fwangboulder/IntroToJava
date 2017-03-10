@@ -32,8 +32,5 @@ public class HelloWorld {
 * double 8bytes
 * char 2bytes
 * boolean 1byte
-```Java
-int myNumber1;
-myNumber1 = 5;
-int myNumber2 = 6;
-double d = 1.0;
+
+Using Java IDE IntelliJ to write and run code.
